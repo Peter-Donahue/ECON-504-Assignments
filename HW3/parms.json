@@ -1,0 +1,11 @@
+{
+    "cpu_cores": 15,
+    "method_parm": {
+        "Monte Carlo S=1,000,000":1000000,
+        "Monte Carlo S=100": 100,
+        "Monte Carlo S=1,000": 1000,
+        "Gauss-Hermite N=3": 3,
+        "Gauss-Hermite N=5": 5,
+        "Sparse Grid Accuracy=5": 5
+    }
+}
